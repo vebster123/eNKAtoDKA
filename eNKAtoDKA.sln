@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automate", "Automate\Automate.csproj", "{BE5E9AFB-A6D0-4293-8A4D-3EBA49DEE676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eNKA2DKA", "eNKA2DKA\eNKA2DKA.csproj", "{4031D412-9772-4715-950D-DC64A9BED9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5E9AFB-A6D0-4293-8A4D-3EBA49DEE676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5E9AFB-A6D0-4293-8A4D-3EBA49DEE676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5E9AFB-A6D0-4293-8A4D-3EBA49DEE676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5E9AFB-A6D0-4293-8A4D-3EBA49DEE676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4031D412-9772-4715-950D-DC64A9BED9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4031D412-9772-4715-950D-DC64A9BED9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4031D412-9772-4715-950D-DC64A9BED9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4031D412-9772-4715-950D-DC64A9BED9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

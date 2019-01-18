@@ -1,0 +1,14 @@
+C:\Users\Maxim\Desktop\5 семестр\Автоматы\eNKAtoDKA\Automate\bin\Debug\Automate.dll
+C:\Users\Maxim\Desktop\5 семестр\Автоматы\eNKAtoDKA\Automate\bin\Debug\Automate.pdb
+C:\Users\Maxim\Desktop\5 семестр\Автоматы\eNKAtoDKA\Automate\bin\Debug\SourceGrid.dll
+C:\Users\Maxim\Desktop\5 семестр\Автоматы\eNKAtoDKA\Automate\bin\Debug\SourceGrid.xml
+C:\Users\Maxim\Desktop\5 семестр\Автоматы\eNKAtoDKA\Automate\obj\Debug\Automate.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\5 семестр\Автоматы\eNKAtoDKA\Automate\obj\Debug\Automate.dll
+C:\Users\Maxim\Desktop\5 семестр\Автоматы\eNKAtoDKA\Automate\obj\Debug\Automate.pdb
+C:\Users\Maxim\Desktop\универ\у\5 семестр\Автоматы\eNKAtoDKA\Automate\bin\Debug\Automate.dll
+C:\Users\Maxim\Desktop\универ\у\5 семестр\Автоматы\eNKAtoDKA\Automate\bin\Debug\Automate.pdb
+C:\Users\Maxim\Desktop\универ\у\5 семестр\Автоматы\eNKAtoDKA\Automate\bin\Debug\SourceGrid.dll
+C:\Users\Maxim\Desktop\универ\у\5 семестр\Автоматы\eNKAtoDKA\Automate\bin\Debug\SourceGrid.xml
+C:\Users\Maxim\Desktop\универ\у\5 семестр\Автоматы\eNKAtoDKA\Automate\obj\Debug\Automate.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\универ\у\5 семестр\Автоматы\eNKAtoDKA\Automate\obj\Debug\Automate.dll
+C:\Users\Maxim\Desktop\универ\у\5 семестр\Автоматы\eNKAtoDKA\Automate\obj\Debug\Automate.pdb

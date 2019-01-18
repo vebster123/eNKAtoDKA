@@ -1,0 +1,21 @@
+a b x y 
+q0 q4q6  q2q3q1 q7 q6 q2 q1 q7q5 
+q0
+q0 q4q6  q2q3q1 q7 q6 q2 q1 q7q5 
+q0 a q4q6
+q0 x q2q3q1
+q0 y q7
+q4q6 a q6
+q4q6 b q2
+q4q6 x q1
+q4q6 y q7
+q2q3q1 x q1
+q2q3q1 y q7q5
+q7 y q7
+q6 a q6
+q6 x q1
+q6 y q7
+q2 x q1
+q2 y q7
+q7q5 x q1
+q7q5 y q7q5
